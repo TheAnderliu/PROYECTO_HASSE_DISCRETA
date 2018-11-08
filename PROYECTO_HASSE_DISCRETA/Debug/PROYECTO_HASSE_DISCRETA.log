@@ -1,0 +1,24 @@
+﻿Compilación iniciada a las 8/11/2018 08:54:11.
+     1>Proyecto "F:\PROYECTO_HASSE_DISCRETA\PROYECTO_HASSE_DISCRETA\PROYECTO_HASSE_DISCRETA.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm1.cpp MyForm2.cpp
+         MyForm1.cpp
+     1>f:\proyecto_hasse_discreta\proyecto_hasse_discreta\MyForm1.h(379): warning C4244: 'inicializando' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>f:\proyecto_hasse_discreta\proyecto_hasse_discreta\MyForm1.h(386): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>f:\proyecto_hasse_discreta\proyecto_hasse_discreta\MyForm1.h(424): warning C4018: '<' : no coinciden signed/unsigned
+     1>f:\proyecto_hasse_discreta\proyecto_hasse_discreta\MyForm1.h(451): warning C4018: '<' : no coinciden signed/unsigned
+     1>MyForm1.cpp(8): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+         MyForm2.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\PROYECTO_HASSE_DISCRETA\Debug\PROYECTO_HASSE_DISCRETA.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\PROYECTO_HASSE_DISCRETA.MyForm1.resources /ASSEMBLYRESOURCE:Debug\PROYECTO_HASSE_DISCRETA.MyForm2.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\PROYECTO_HASSE_DISCRETA\Debug\PROYECTO_HASSE_DISCRETA.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Empresa.obj
+         Debug\MyForm1.obj
+         Debug\MyForm2.obj
+         Debug\Sistema.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         PROYECTO_HASSE_DISCRETA.vcxproj -> F:\PROYECTO_HASSE_DISCRETA\Debug\PROYECTO_HASSE_DISCRETA.exe
+     1>Compilación del proyecto terminada "F:\PROYECTO_HASSE_DISCRETA\PROYECTO_HASSE_DISCRETA\PROYECTO_HASSE_DISCRETA.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.96
